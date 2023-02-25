@@ -8,7 +8,6 @@
 
 ## npmjs:https://www.npmjs.com/package/@rpldy/chunked-uploady
 
----
 ### How to run?
 
 1. ./ yarn 
