@@ -1,7 +1,8 @@
 # react-chunked-uploady
 
 > use vite+react+@chunked-uploady / nodejs+cors+multer  realize chunked upload
-> a little example unfinish
+> 
+> it's just a little example unfinish
 > Will soon be perfect
 
 ## react-uploady:https://react-uploady.org/
