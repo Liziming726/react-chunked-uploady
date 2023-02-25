@@ -4,7 +4,7 @@
 a little example unfinish
 Will soon be perfect
 
-## use react-uploady website:https://react-uploady.org/
+## react-uploady:https://react-uploady.org/
 
 ## npmjs:https://www.npmjs.com/package/@rpldy/chunked-uploady
 
